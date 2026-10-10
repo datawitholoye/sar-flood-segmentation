@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data and outputs (download Sen1Floods11 separately)
+Sen1Floods11/
+flood_seg_outputs/
+checkpoints/
+*.tif
+*.pth
+*.pt
+*.pkl
+
+# OS
+.DS_Store

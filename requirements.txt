@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+
+# Geospatial / imaging
+rasterio
+opencv-python
+
+# Deep learning (install the CUDA build of torch from https://pytorch.org)
+torch
+torchvision
+segmentation-models-pytorch
+transformers
+albumentations
+
+# Visualisation / notebook
+matplotlib
+seaborn
+tqdm
+ipywidgets
+jupyter
